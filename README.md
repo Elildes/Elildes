@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elildes
 - 👀 I’m interested in comunication and information technology 
-- 🌱 I’m currently learning bachelor degree in information technology 
+- 🌱 I’m currently learning bachelor degree in Software Engineering
 - 💞️ I’m looking to collaborate on IMD/UFRN
 
 <!---
